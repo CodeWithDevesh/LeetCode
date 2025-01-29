@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodeWithDevesh/LeetCode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
