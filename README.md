@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3639-zero-array-transformation-i](https://github.com/CodeWithDevesh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/CodeWithDevesh/LeetCode/tree/master/3639-zero-array-transformation-i) |
+## Sorting
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Matrix
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
