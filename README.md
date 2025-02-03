@@ -27,8 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
