@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3639-zero-array-transformation-i](https://github.com/CodeWithDevesh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/CodeWithDevesh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
