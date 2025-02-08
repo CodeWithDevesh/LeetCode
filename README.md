@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeWithDevesh/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/CodeWithDevesh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CodeWithDevesh/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## String
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CodeWithDevesh/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Matrix
 |  |
@@ -62,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
