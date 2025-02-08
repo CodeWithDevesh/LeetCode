@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CodeWithDevesh/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CodeWithDevesh/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
