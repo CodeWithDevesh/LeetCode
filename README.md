@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeWithDevesh/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeWithDevesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/CodeWithDevesh/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeWithDevesh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/CodeWithDevesh/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Matrix
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeWithDevesh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeWithDevesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeWithDevesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
