@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
+| [1078-remove-outermost-parentheses](https://github.com/CodeWithDevesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeWithDevesh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeWithDevesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeWithDevesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/CodeWithDevesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
