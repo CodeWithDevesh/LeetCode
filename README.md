@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeWithDevesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CodeWithDevesh/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Matrix
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -139,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
