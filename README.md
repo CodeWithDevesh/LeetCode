@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/CodeWithDevesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CodeWithDevesh/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2032-largest-odd-number-in-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/CodeWithDevesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeWithDevesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
