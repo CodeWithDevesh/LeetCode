@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CodeWithDevesh/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeWithDevesh/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/CodeWithDevesh/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3639-zero-array-transformation-i](https://github.com/CodeWithDevesh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CodeWithDevesh/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/CodeWithDevesh/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CodeWithDevesh/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Matrix
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/CodeWithDevesh/LeetCode/tree/master/0268-missing-number) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/CodeWithDevesh/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeWithDevesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/CodeWithDevesh/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## String Matching
 |  |
 | ------- |
