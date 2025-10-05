@@ -8,6 +8,7 @@ public:
                 placed++;
                 last = i;
             }
+            if(placed == k) break;
         }
         if (placed >= k)
             return true;
