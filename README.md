@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeWithDevesh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWithDevesh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/CodeWithDevesh/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeWithDevesh/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/CodeWithDevesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeWithDevesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/CodeWithDevesh/LeetCode/tree/master/0198-house-robber) |
+| [0647-palindromic-substrings](https://github.com/CodeWithDevesh/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CodeWithDevesh/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeWithDevesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/CodeWithDevesh/LeetCode/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/CodeWithDevesh/LeetCode/tree/master/0647-palindromic-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithDevesh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeWithDevesh/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
